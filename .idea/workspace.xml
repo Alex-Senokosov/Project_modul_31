@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f109ca0b-6299-4343-beb3-a2502ccf6b5f" name="Changes" comment="DZ2">
+    <list default="true" id="f109ca0b-6299-4343-beb3-a2502ccf6b5f" name="Changes" comment="DZ3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp2/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp2/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp2/weather/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp2/weather/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp2/weather/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp2/weather/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WeatherApp2/weather/templates/weather/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp2/weather/templates/weather/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WeatherApp2/weather/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp2/weather/views.py" afterDir="false" />
     </list>
@@ -78,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673546491097</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DZ3">
+      <created>1673892354966</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673892354966</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,7 +104,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DZ2" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ2" />
+    <MESSAGE value="DZ3" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
